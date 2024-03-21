@@ -1,0 +1,7 @@
+D:\learn .NET\Buổi 2\Nhap_in_Xau_Chuoi\obj\Debug\Nhap_in_Xau_Chuoi.csproj.AssemblyReference.cache
+D:\learn .NET\Buổi 2\Nhap_in_Xau_Chuoi\obj\Debug\Nhap_in_Xau_Chuoi.csproj.CoreCompileInputs.cache
+D:\learn .NET\Buổi 2\Nhap_in_Xau_Chuoi\bin\Debug\Nhap_in_Xau_Chuoi.exe.config
+D:\learn .NET\Buổi 2\Nhap_in_Xau_Chuoi\bin\Debug\Nhap_in_Xau_Chuoi.exe
+D:\learn .NET\Buổi 2\Nhap_in_Xau_Chuoi\bin\Debug\Nhap_in_Xau_Chuoi.pdb
+D:\learn .NET\Buổi 2\Nhap_in_Xau_Chuoi\obj\Debug\Nhap_in_Xau_Chuoi.exe
+D:\learn .NET\Buổi 2\Nhap_in_Xau_Chuoi\obj\Debug\Nhap_in_Xau_Chuoi.pdb
