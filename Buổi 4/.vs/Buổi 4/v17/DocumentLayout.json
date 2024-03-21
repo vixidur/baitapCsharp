@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProJectDoAn\\Bu\u1ED5i 4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D792528-340D-4907-A0AC-FDB3D37D3E8D}|Array1Chieu\\Array1Chieu.csproj|d:\\projectdoan\\bu\u1ED5i 4\\array1chieu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D792528-340D-4907-A0AC-FDB3D37D3E8D}|Array1Chieu\\Array1Chieu.csproj|solutionrelative:array1chieu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB81408-01E4-4D4F-9A02-127925A5A8EC}|Bu\u1ED5i 4\\Bu\u1ED5i 4.csproj|d:\\projectdoan\\bu\u1ED5i 4\\bu\u1ED5i 4\\bu\u1ED5i 4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6DB81408-01E4-4D4F-9A02-127925A5A8EC}|Bu\u1ED5i 4\\Bu\u1ED5i 4.csproj|solutionrelative:bu\u1ED5i 4\\bu\u1ED5i 4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48ED7A7-8F1F-4445-9B61-D0021C842128}|doicho2songuyen\\doicho2songuyen.csproj|D:\\ProJectDoAn\\Bu\u1ED5i 4\\doicho2songuyen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F48ED7A7-8F1F-4445-9B61-D0021C842128}|doicho2songuyen\\doicho2songuyen.csproj|solutionrelative:doicho2songuyen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FBEB00F-D0CC-47D4-97F3-1AD34E5E058E}|sochinhphuong\\sochinhphuong.csproj|D:\\ProJectDoAn\\Bu\u1ED5i 4\\sochinhphuong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FBEB00F-D0CC-47D4-97F3-1AD34E5E058E}|sochinhphuong\\sochinhphuong.csproj|solutionrelative:sochinhphuong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB81408-01E4-4D4F-9A02-127925A5A8EC}|Bu\u1ED5i 4\\Bu\u1ED5i 4.csproj|D:\\ProJectDoAn\\Bu\u1ED5i 4\\bu\u1ED5i 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DB81408-01E4-4D4F-9A02-127925A5A8EC}|Bu\u1ED5i 4\\Bu\u1ED5i 4.csproj|solutionrelative:bu\u1ED5i 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0F88DB-D078-4550-B80B-6CA682BEEE50}|songuyento\\songuyento.csproj|D:\\ProJectDoAn\\Bu\u1ED5i 4\\songuyento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0F88DB-D078-4550-B80B-6CA682BEEE50}|songuyento\\songuyento.csproj|solutionrelative:songuyento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bu\u1ED5i 4",
+              "DocumentMoniker": "D:\\ProJectDoAn\\Bu\u1ED5i 4\\Bu\u1ED5i 4\\Bu\u1ED5i 4.csproj",
+              "RelativeDocumentMoniker": "Bu\u1ED5i 4\\Bu\u1ED5i 4.csproj",
+              "ToolTip": "D:\\ProJectDoAn\\Bu\u1ED5i 4\\Bu\u1ED5i 4\\Bu\u1ED5i 4.csproj",
+              "RelativeToolTip": "Bu\u1ED5i 4\\Bu\u1ED5i 4.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-21T03:25:58.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProJectDoAn\\Bu\u1ED5i 4\\Array1Chieu\\Program.cs",
+              "RelativeDocumentMoniker": "Array1Chieu\\Program.cs",
+              "ToolTip": "D:\\ProJectDoAn\\Bu\u1ED5i 4\\Array1Chieu\\Program.cs",
+              "RelativeToolTip": "Array1Chieu\\Program.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAcwG8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T07:13:01.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProJectDoAn\\Bu\u1ED5i 4\\doicho2songuyen\\Program.cs",
+              "RelativeDocumentMoniker": "doicho2songuyen\\Program.cs",
+              "ToolTip": "D:\\ProJectDoAn\\Bu\u1ED5i 4\\doicho2songuyen\\Program.cs",
+              "RelativeToolTip": "doicho2songuyen\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T06:51:05.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProJectDoAn\\Bu\u1ED5i 4\\sochinhphuong\\Program.cs",
+              "RelativeDocumentMoniker": "sochinhphuong\\Program.cs",
+              "ToolTip": "D:\\ProJectDoAn\\Bu\u1ED5i 4\\sochinhphuong\\Program.cs",
+              "RelativeToolTip": "sochinhphuong\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T06:39:45.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProJectDoAn\\Bu\u1ED5i 4\\songuyento\\Program.cs",
+              "RelativeDocumentMoniker": "songuyento\\Program.cs",
+              "ToolTip": "D:\\ProJectDoAn\\Bu\u1ED5i 4\\songuyento\\Program.cs",
+              "RelativeToolTip": "songuyento\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T06:30:16.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProJectDoAn\\Bu\u1ED5i 4\\Bu\u1ED5i 4\\Program.cs",
+              "RelativeDocumentMoniker": "Bu\u1ED5i 4\\Program.cs",
+              "ToolTip": "D:\\ProJectDoAn\\Bu\u1ED5i 4\\Bu\u1ED5i 4\\Program.cs",
+              "RelativeToolTip": "Bu\u1ED5i 4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T05:59:03.88Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
