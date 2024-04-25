@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lhgyE30ayElPzFzntmaJGHOrjWYQ4s1VlrYQ5EtpSmabjLvqDkFvgAFlNp85AeCTlsL4kGzFEyG3HoiqojU1SA==",
+  "success": true,
+  "projectFilePath": "D:\\learn .NET\\baitapCsharp\\Buổi 5\\Buổi 5\\Buổi 5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.2\\microsoft.dotnet.ilcompiler.8.0.2.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.2\\microsoft.net.illink.tasks.8.0.2.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.2\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

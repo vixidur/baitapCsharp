@@ -1,0 +1,7 @@
+D:\learn .NET\Buổi 2\ProjectFirst\bin\Debug\ProjectFirst.exe.config
+D:\learn .NET\Buổi 2\ProjectFirst\bin\Debug\ProjectFirst.exe
+D:\learn .NET\Buổi 2\ProjectFirst\bin\Debug\ProjectFirst.pdb
+D:\learn .NET\Buổi 2\ProjectFirst\obj\Debug\ProjectFirst.csproj.AssemblyReference.cache
+D:\learn .NET\Buổi 2\ProjectFirst\obj\Debug\ProjectFirst.csproj.CoreCompileInputs.cache
+D:\learn .NET\Buổi 2\ProjectFirst\obj\Debug\ProjectFirst.exe
+D:\learn .NET\Buổi 2\ProjectFirst\obj\Debug\ProjectFirst.pdb

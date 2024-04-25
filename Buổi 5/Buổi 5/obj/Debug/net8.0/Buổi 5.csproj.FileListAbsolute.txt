@@ -1,0 +1,15 @@
+D:\learn .NET\baitapCsharp\Buổi 5\Buổi 5\bin\Debug\net8.0\Buổi 5.exe
+D:\learn .NET\baitapCsharp\Buổi 5\Buổi 5\bin\Debug\net8.0\Buổi 5.deps.json
+D:\learn .NET\baitapCsharp\Buổi 5\Buổi 5\bin\Debug\net8.0\Buổi 5.runtimeconfig.json
+D:\learn .NET\baitapCsharp\Buổi 5\Buổi 5\bin\Debug\net8.0\Buổi 5.dll
+D:\learn .NET\baitapCsharp\Buổi 5\Buổi 5\bin\Debug\net8.0\Buổi 5.pdb
+D:\learn .NET\baitapCsharp\Buổi 5\Buổi 5\obj\Debug\net8.0\Buổi 5.GeneratedMSBuildEditorConfig.editorconfig
+D:\learn .NET\baitapCsharp\Buổi 5\Buổi 5\obj\Debug\net8.0\Buổi 5.AssemblyInfoInputs.cache
+D:\learn .NET\baitapCsharp\Buổi 5\Buổi 5\obj\Debug\net8.0\Buổi 5.AssemblyInfo.cs
+D:\learn .NET\baitapCsharp\Buổi 5\Buổi 5\obj\Debug\net8.0\Buổi 5.csproj.CoreCompileInputs.cache
+D:\learn .NET\baitapCsharp\Buổi 5\Buổi 5\obj\Debug\net8.0\Buổi 5.sourcelink.json
+D:\learn .NET\baitapCsharp\Buổi 5\Buổi 5\obj\Debug\net8.0\Buổi 5.dll
+D:\learn .NET\baitapCsharp\Buổi 5\Buổi 5\obj\Debug\net8.0\refint\Buổi 5.dll
+D:\learn .NET\baitapCsharp\Buổi 5\Buổi 5\obj\Debug\net8.0\Buổi 5.pdb
+D:\learn .NET\baitapCsharp\Buổi 5\Buổi 5\obj\Debug\net8.0\Buổi 5.genruntimeconfig.cache
+D:\learn .NET\baitapCsharp\Buổi 5\Buổi 5\obj\Debug\net8.0\ref\Buổi 5.dll

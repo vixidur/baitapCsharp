@@ -1,0 +1,7 @@
+D:\learn .NET\Buổi 2\Project_2\bin\Debug\Project_2.exe.config
+D:\learn .NET\Buổi 2\Project_2\bin\Debug\Project_2.exe
+D:\learn .NET\Buổi 2\Project_2\bin\Debug\Project_2.pdb
+D:\learn .NET\Buổi 2\Project_2\obj\Debug\Project_2.csproj.AssemblyReference.cache
+D:\learn .NET\Buổi 2\Project_2\obj\Debug\Project_2.csproj.CoreCompileInputs.cache
+D:\learn .NET\Buổi 2\Project_2\obj\Debug\Project_2.exe
+D:\learn .NET\Buổi 2\Project_2\obj\Debug\Project_2.pdb

@@ -1,0 +1,14 @@
+D:\ProJectDoAn\Buổi 4\doicho2songuyen\bin\Debug\net8.0\doicho2songuyen.exe
+D:\ProJectDoAn\Buổi 4\doicho2songuyen\bin\Debug\net8.0\doicho2songuyen.deps.json
+D:\ProJectDoAn\Buổi 4\doicho2songuyen\bin\Debug\net8.0\doicho2songuyen.runtimeconfig.json
+D:\ProJectDoAn\Buổi 4\doicho2songuyen\bin\Debug\net8.0\doicho2songuyen.dll
+D:\ProJectDoAn\Buổi 4\doicho2songuyen\bin\Debug\net8.0\doicho2songuyen.pdb
+D:\ProJectDoAn\Buổi 4\doicho2songuyen\obj\Debug\net8.0\doicho2songuyen.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProJectDoAn\Buổi 4\doicho2songuyen\obj\Debug\net8.0\doicho2songuyen.AssemblyInfoInputs.cache
+D:\ProJectDoAn\Buổi 4\doicho2songuyen\obj\Debug\net8.0\doicho2songuyen.AssemblyInfo.cs
+D:\ProJectDoAn\Buổi 4\doicho2songuyen\obj\Debug\net8.0\doicho2songuyen.csproj.CoreCompileInputs.cache
+D:\ProJectDoAn\Buổi 4\doicho2songuyen\obj\Debug\net8.0\doicho2songuyen.dll
+D:\ProJectDoAn\Buổi 4\doicho2songuyen\obj\Debug\net8.0\refint\doicho2songuyen.dll
+D:\ProJectDoAn\Buổi 4\doicho2songuyen\obj\Debug\net8.0\doicho2songuyen.pdb
+D:\ProJectDoAn\Buổi 4\doicho2songuyen\obj\Debug\net8.0\doicho2songuyen.genruntimeconfig.cache
+D:\ProJectDoAn\Buổi 4\doicho2songuyen\obj\Debug\net8.0\ref\doicho2songuyen.dll

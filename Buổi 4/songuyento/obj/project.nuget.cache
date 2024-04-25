@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "iZCfQFuVHV2hyoJ1x84goFpqM+y0onHVEw7Vtz6keP/jsIFnGA1QmY9s17m1iebFBIa4kj+8fpujWrJgiKva4w==",
+  "success": true,
+  "projectFilePath": "D:\\ProJectDoAn\\Buổi 4\\songuyento\\songuyento.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.2\\microsoft.dotnet.ilcompiler.8.0.2.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.2\\microsoft.net.illink.tasks.8.0.2.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.2\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

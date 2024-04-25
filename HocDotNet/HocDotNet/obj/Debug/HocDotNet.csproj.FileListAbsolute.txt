@@ -1,0 +1,10 @@
+D:\ProJectDoAn\HocDotNet\HocDotNet\bin\Debug\HocDotNet.exe.config
+D:\ProJectDoAn\HocDotNet\HocDotNet\bin\Debug\HocDotNet.exe
+D:\ProJectDoAn\HocDotNet\HocDotNet\bin\Debug\HocDotNet.pdb
+D:\ProJectDoAn\HocDotNet\HocDotNet\obj\Debug\HocDotNet.csproj.AssemblyReference.cache
+D:\ProJectDoAn\HocDotNet\HocDotNet\obj\Debug\HocDotNet.Form1.resources
+D:\ProJectDoAn\HocDotNet\HocDotNet\obj\Debug\HocDotNet.Properties.Resources.resources
+D:\ProJectDoAn\HocDotNet\HocDotNet\obj\Debug\HocDotNet.csproj.GenerateResource.cache
+D:\ProJectDoAn\HocDotNet\HocDotNet\obj\Debug\HocDotNet.csproj.CoreCompileInputs.cache
+D:\ProJectDoAn\HocDotNet\HocDotNet\obj\Debug\HocDotNet.exe
+D:\ProJectDoAn\HocDotNet\HocDotNet\obj\Debug\HocDotNet.pdb

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ev6YEG9rjMQZZZgFa6YdmL8IUh8JWt6u8Bj/wR9ShRf/X4kzfmBc6tLqFyrH0AzBeEjq+LnZ1zHX99B6aJLsYw==",
+  "success": true,
+  "projectFilePath": "D:\\ProJectDoAn\\Buổi 4\\Buổi 4\\Buổi 4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.2\\microsoft.dotnet.ilcompiler.8.0.2.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.2\\microsoft.net.illink.tasks.8.0.2.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.2\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
